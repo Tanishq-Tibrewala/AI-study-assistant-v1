@@ -1,5 +1,5 @@
 streamlit
 ollama
 pypdf
-numpy
 scikit-learn
+numpy
